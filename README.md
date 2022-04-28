@@ -14,3 +14,4 @@
 https://github.com/receiptline/receiptline  
 https://github.com/Ant2357/ReceiptlineSandbox  
 https://zenn.dev/eggplants/articles/qiita-20200718-be1dd4b14f4d032c7ba7  
+https://www.youtube.com/watch?v=CXKZVNTDtlQ&t=990s
