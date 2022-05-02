@@ -8,6 +8,7 @@
 <div align="left">
 <img src="https://user-images.githubusercontent.com/96648305/165408226-3caed034-5145-4a61-8809-579c3ad7ed0d.svg" alt="マクドナルドのレシートを再現した画像です" width="300px">&nbsp;
 <img src="" alt="スーパーのレシートを再現した画像です"  width="300px">
+  <img src="" alt="無印のレシートを再現した画像です"  width="300px">
 </div>
 
 ## 参考文献
