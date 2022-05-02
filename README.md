@@ -1,16 +1,17 @@
 # receiptline-turtorial
 レシート記述言語である receiptline(OSS) について学習した際に使用したリポジトリです。
 ## receiptlineとは
-OSFCが公開しているOSSなレシート記述言語。Githubのマークダウンのような感じ。ここから実際に試すことができます : https://receiptline.github.io/designer/
+・OSFCが公開しているOSSなレシート記述言語。Githubのマークダウンのような感じ。ここから実際に試すことができます : https://receiptline.github.io/designer/  
+・実際に記述したレシートはWebアプリケーションからプリンターで印刷をすることが可能です。
 
 ## 実際に試し書きをしてみる
-・学内マック
-
 
 <div align="left">
 <img src="https://user-images.githubusercontent.com/96648305/165408226-3caed034-5145-4a61-8809-579c3ad7ed0d.svg" alt="マクドナルドのレシートを再現した画像です" width="300px">&nbsp;
-<img src="" alt="スーパーのレシートを再現した画像です"  width="300px">
-  <img src="" alt="無印のレシートを再現した画像です"  width="300px">
+<img src="" alt="検温パスポートの画像です"  width="300px">
+<img src="" alt="衣料品店風レシートの画像です"  width="300px">
+<img src="" alt="コンビニ風レシートの画像です"  width="300px">
+<img src="" alt="受付予約領収書風レシートの画像です"  width="300px">
 </div>
 
 ## 参考文献
