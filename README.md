@@ -6,11 +6,13 @@
 
 ## 実際に試し書きをしてみる
 
-<img src="https://user-images.githubusercontent.com/96648305/165408226-3caed034-5145-4a61-8809-579c3ad7ed0d.svg" alt="マクドナルドのレシートを再現した画像です" width="300px">  
+<img src="" alt="マクドナルドのレシートを再現した画像です" width="300px">  
 <img src="" alt="検温パスポートの画像です"  width="300px">  
 <img src="" alt="衣料品店風レシートの画像です"  width="300px">  
 <img src="" alt="コンビニ風レシートの画像です"  width="300px">  
 <img src="" alt="受付予約領収書風レシートの画像です"  width="300px">  
+
+＊画像と同じ行に文字を表示したいがうまくできなかった...
 
 ## 参考文献
 https://github.com/receiptline/receiptline  
