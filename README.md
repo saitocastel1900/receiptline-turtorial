@@ -14,6 +14,8 @@
 
 ＊画像と同じ行に文字を表示したいがうまくできなかった...
 
+## 印刷してみる
+
 ## 参考文献
 https://github.com/receiptline/receiptline  
 https://github.com/Ant2357/ReceiptlineSandbox  
