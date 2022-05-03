@@ -1,0 +1,29 @@
+﻿{width:auto; align:center}
+{_:学生情報}
+
+|^^^斎藤 亮磨|
+
+{_:所属}
+神奈川工科大学情報学部
+情報メディア学科　所属
+
+
+|東京ｹﾞｰﾑｼｮｰ |2022年09月15日(木)|
+-
+{_:連絡先}
+{b:space;w:* * boder:
+
+|TEL | 123-1234-1234 ~|
+
+|Twitter | @KanagawaRyoma~|
+
+|Mail | 12@gmail.com~|
+
+|Github | https://github.com~|
+
+-
+{width:auto; align:center}
+
+``__""`ポートフォリオはこちらから
+
+{code:https://github.com/saitocastel1900; option:qrcode,5,L}

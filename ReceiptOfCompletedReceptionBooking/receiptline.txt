@@ -1,0 +1,20 @@
+﻿{width:auto; align:center}
+
+{_:企業情報}
+2022年2月25日 12:20
+
+
+{_:予約番号}
+^^^受付番号
+^^^^^^^6
+
+
+{_:予約確認サイトへ}
+スマートフォンからQRコードを
+読み込むと、予約状況をWebで
+確認できます。
+
+
+{code:https://receiptline.github.io/designer/; option:qrcode,5,L}
+
+"https://github.com"

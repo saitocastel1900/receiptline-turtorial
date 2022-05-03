@@ -1,0 +1,18 @@
+﻿
+{width:360; align:center}
+{_:体温検知情報}
+2022/4/12 12:00
+
+__``"^^^36.0℃`[正常]
+
+
+{code:https://receiptline.github.io/designer/; option:qrcode,5,L}
+
+QRコードから学内の混雑
+状況を確認できます。
+=
+{_:入構許可証}
+"入構許可証
+
+2022年　4月12日 
+〇×大学　情報学部
