@@ -7,9 +7,8 @@
 ## 実際に試し書きをしてみる
 
 <img src="" alt="マクドナルドのレシートを再現した画像です" width="300px">  
-<img src="" alt="検温パスポートの画像です"  width="300px">  
-<img src="" alt="衣料品店風レシートの画像です"  width="300px">  
-<img src="" alt="コンビニ風レシートの画像です"  width="300px">  
+<img src="" alt="検温パスポートの画像です"  width="300px">   
+<img src="" alt="レシート風名刺の画像です"  width="300px">  
 <img src="" alt="受付予約領収書風レシートの画像です"  width="300px">  
 
 ＊画像と同じ行に文字を表示したいがうまくできなかった...
